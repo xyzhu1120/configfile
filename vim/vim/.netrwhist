@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/zxy/ns3lab/ns-3.16/scratch'
+let g:netrw_dirhist_2='/home/zxy/.vim'
+let g:netrw_dirhist_3='/home/zxy/ns3lab/ns-3.16/scratch'
+let g:netrw_dirhist_4='/home/zxy/xyzhu1120.github.com/_includes'
+let g:netrw_dirhist_5='/home/zxy/Downloads/feedzirra-master/lib/feedzirra'
+let g:netrw_dirhist_6='/home/zxy/.vim'
